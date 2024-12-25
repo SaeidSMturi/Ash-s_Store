@@ -1,0 +1,209 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\areas\\admin\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\areas\\admin\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\areas\\userpanel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\areas\\userpanel\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\areas\\userpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\areas\\userpanel\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\views\\home\\aboutus.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|c:\\users\\saeid\\desktop\\drugstore\\drugstore\\drugstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{21BFC052-965D-44F1-A9EF-73FA33DC054F}|DrugStore\\DrugStore.csproj|solutionrelative:drugstore\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 313,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DrugStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DrugStore\\Areas\\Admin\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACoAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:31:09.46Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "DrugStore\\Views\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "DrugStore\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABgAAAAAAAAAAAAAADMAAABEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:29:26.078Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "DrugStore\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "DrugStore\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:28:16.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "DrugStore\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "DrugStore\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAUwB0AAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:25:07.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AboutUs.cshtml",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Views\\Home\\AboutUs.cshtml",
+              "RelativeDocumentMoniker": "DrugStore\\Views\\Home\\AboutUs.cshtml",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Views\\Home\\AboutUs.cshtml",
+              "RelativeToolTip": "DrugStore\\Views\\Home\\AboutUs.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:15:15.607Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DrugStore\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DrugStore\\Areas\\UserPanel\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-10T14:09:52.622Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\UserPanel\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DrugStore\\Areas\\UserPanel\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\UserPanel\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DrugStore\\Areas\\UserPanel\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:09:40.091Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DrugStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DrugStore\\Areas\\Admin\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:08:26.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "DrugStore\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "DrugStore\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:08:18.308Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DrugStore\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DrugStore\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:08:16.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "DrugStore\\Controllers\\OrderController.cs",
+              "ToolTip": "C:\\Users\\saeid\\Desktop\\DrugStore\\DrugStore\\DrugStore\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "DrugStore\\Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T14:07:47.546Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

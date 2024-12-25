@@ -1,0 +1,29 @@
+﻿@model IEnumerable<DrugStore.Data.Entities.Product.Product>
+
+@{
+    ViewData["Title"] = "Store";
+}
+
+<div class="bg-light py-3">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 mb-0"><a href="/">Home</a> <span class="mx-2 mb-0">/</span> <strong class="text-black">Store</strong></div>
+        </div>
+    </div>
+</div>
+
+<div class="site-section">
+    <div class="container">
+        <div class="row">
+            @foreach (var item in Model)
+            {
+                <div class="col-sm-6 col-lg-4 text-center item mb-4">
+                    <a asp-area="" asp-controller="Product" asp-action="Detail" asp-route-id="@item.Id"> <img src="/images/product/@item.ImageName" width="270" alt="Image"></a>
+                    <h3 class="text-dark"><a asp-area="" asp-controller="Product" asp-action="Detail" asp-route-id="@item.Id">@item.Name</a></h3>
+                    <p class="price">@item.Price.ToString("C")</p>
+                </div>
+            }
+        </div>
+       
+    </div>
+</div>

@@ -1,0 +1,65 @@
+﻿@model IEnumerable<DrugStore.Data.Entities.Product.Order>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<div class="container">
+    <h1>Index</h1>
+
+    <table class="table">
+        <thead>
+            <tr>
+                <th>
+                    @Html.DisplayNameFor(model => model.Id)
+                </th>
+                <th>
+                    Username
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.CreateDate)
+                </th>
+                <th>
+                    Payment Status
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.TrackingCode)
+                </th>
+                <th>
+                    @Html.DisplayNameFor(model => model.BuyDate)
+                </th>
+                <th></th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in Model)
+            {
+                <tr>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.Id)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.User.UserName)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.CreateDate)
+                    </td>
+                    <td>
+                        <p>@(!item.IsOpen ? "Yes" : "No")</p>
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.TrackingCode)
+                    </td>
+                    <td>
+                        @Html.DisplayFor(modelItem => item.BuyDate)
+                    </td>
+                    <td>
+                        @Html.ActionLink("Edit", "Edit", new { id = item.Id }) |
+                        @Html.ActionLink("Details", "Details", new { id = item.Id }) |
+                        @Html.ActionLink("Delete", "Delete", new { id = item.Id })
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

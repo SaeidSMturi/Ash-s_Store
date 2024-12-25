@@ -1,0 +1,106 @@
+﻿@model DrugStore.Data.Entities.Product.Order
+@{
+    ViewData["Title"] = "Cart";
+
+}
+@if (Model != null)
+{
+    <div class="site-section">
+        <div class="container">
+            <div class="row mb-5">
+                <form class="col-md-12" method="post">
+                    <div class="site-blocks-table">
+                        <table class="table table-bordered">
+                            <thead>
+                            <tr>
+                                <th class="product-thumbnail">Image</th>
+                                <th class="product-name">Product</th>
+                                <th class="product-price">Price</th>
+                                <th class="product-quantity">Quantity</th>
+                                <th class="product-total">Total</th>
+                                <th class="product-remove">Remove</th>
+                            </tr>
+                            </thead>
+                            <tbody>
+                            @foreach (var item in Model.OrderDetails)
+                            {
+                                <tr>
+                                    <td class="product-thumbnail">
+                                        <img src="/images/product/@item.Product.ImageName" alt="Image" class="img-fluid">
+                                    </td>
+                                    <td class="product-name">
+                                        <h2 class="h5 text-black">@item.Product.Name</h2>
+                                    </td>
+                                    <td>@item.Product.Price.ToString("C")</td>
+                                    <td>
+                                        <div class="input-group mb-3" style="max-width: 120px;">
+                                            @item.Count
+                                        </div>
+
+                                    </td>
+                                    @{
+                                        var price = item.Product.Price * item.Count;
+                                    }
+                                    <td>@price.ToString("C")</td>
+                                    <td><a asp-area="" asp-controller="Order" asp-action="RemoveOrderDetail" asp-route-id="@item.id" class="btn btn-primary height-auto btn-sm">X</a></td>
+                                </tr>
+                            }
+                            </tbody>
+                        </table>
+                    </div>
+                </form>
+            </div>
+
+            <div class="row">
+                <div class="col-md-12 pl-5 mx-auto">
+                    <div class="row justify-content-end">
+                        <div class="col-md-7 mx-auto">
+                            <div class="row">
+                                <div class="col-md-12 text-right border-bottom mb-5">
+                                    <h3 class="text-black h4 text-uppercase">Cart Totals</h3>
+                                </div>
+                            </div>
+                            <div class="row mb-5">
+                                <div class="col-md-6">
+                                    <span class="text-black">Total</span>
+                                </div>
+                                <div class="col-md-6 text-right">
+                                    @{
+                                        decimal total = 0;
+                                        foreach (var item in Model.OrderDetails)
+                                        {
+                                            total += item.Product.Price * item.Count;
+                                        }
+                                    }
+                                    <strong class="text-black">@total.ToString("C")</strong>
+                                </div>
+                            </div>
+
+                            <div class="row">
+                                <div class="col-md-12">
+                                    <a class="btn btn-primary btn-lg btn-block" asp-area="" asp-action="Payment">
+                                        Proceed To
+                                        Checkout
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+}
+else
+{
+    <div class="site-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12 text-center">
+                    <h2 class="h3 mb-3 text-black">Your Cart is Empty</h2>
+                    <p><a asp-area="" asp-controller="Product" asp-action="Index" class="btn btn-primary btn-sm">Continue Shopping</a></p>
+                </div>
+            </div>
+        </div>
+    </div>
+}
